@@ -31,3 +31,81 @@ p {
 .clear {
     overflow: hidden;
 }
+
+/* banner and logo design start */
+.header-area{
+    padding: 70px 0;
+}
+ .navbar-nav .nav-link {
+    padding: 0 40px !important;
+    font-weight: normal;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.menu-design ul li a{
+    color: #626262 !important;
+}
+.menu-design:hover{
+    color: #626262 !important;
+}
+
+.banner-image{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* banner and logo design end */
+/* gateway part design start */
+#gateway{
+    padding: 100px 0; 
+}
+.gateway-content h5{
+    font-weight: normal;
+    font-size: 14px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+}
+.gateway-content h2{
+    font-weight: normal;
+    font-size: 30px;
+    text-transform: initial;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+.gateway-content p{
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 28px;
+    padding-bottom: 75px;
+}
+
+
+/* gateway part design end */
+
+/* lifestyle part design start */
+.lyfestyle-content h5 {
+	font-weight: normal;
+	font-size: 14px;
+	color: #b4ad9e;
+	text-transform: uppercase;
+	padding: 30px 0;
+}
+.lyfestyle-content h2 {
+	font-weight: normal;
+	font-size: 30px;
+	text-transform: initial;
+	padding-bottom: 40px;
+	margin-bottom: 0;
+	color: #626262;
+}
+.lyfestyle-content p{
+    font-weight: normal;
+    font-size: 16px;
+    color: #626262;
+    line-height: 28px;
+    padding-bottom: 130px;
+    padding-right: 2%;
+}
+
